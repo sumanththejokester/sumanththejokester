@@ -5,19 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanththejokester&label=Profile%20views&color=0e75b6&style=flat" alt="sumanththejokester" /> </p>
 
-- 📫 How to reach me **sumanth.badugu07@gmail.com**
+- 📫 How to reach me     <a href="mailto:sumanth.badugu07@gmail.com" target="blank"><img align="center" src="https://flat-icons.com/wp-content/uploads/2022/07/Gmail-Icon-Aesthetic.png" alt="" height="30" width="30" /></a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Inwa-jTqjrWpB5RWIM6-65pcAu_TIZAZ/view?usp=drive_link](https://drive.google.com/file/d/1Inwa-jTqjrWpB5RWIM6-65pcAu_TIZAZ/view?usp=drive_link)
+- 📄 Know about my experiences [Have a look at my Resume? ](https://drive.google.com/file/d/1Inwa-jTqjrWpB5RWIM6-65pcAu_TIZAZ/view?usp=drive_link)
 
-- ⚡ Fun fact **My Profile Name itself states me 😂**
+- ⚡ Fun fact: **My Profile Name itself states me 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sumanth badugu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumanth badugu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sumanth-badugu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumanth badugu" height="30" width="40" /></a>
 <a href="https://instagram.com/sumanth_the_jokester" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sumanth_the_jokester" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sumanthbadugu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sumanthbadugu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sumanthbadugu07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumanthbadugu07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sumanth badugu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumanth badugu" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sumanth_badugu07?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sumanthbadugu07" height="30" width="40" /></a>
+<a href="https://leetcode.com/user3460wU/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sumanth badugu" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sumanthbadugu07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sumanthbadugu07" height="30" width="40" /></a>
 </p>
 
