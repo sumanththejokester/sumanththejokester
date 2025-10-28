@@ -7,7 +7,7 @@
 
 - 📫 How to reach me     <a href="mailto:sumanth.badugu07@gmail.com" target="blank"><img align="center" src="https://flat-icons.com/wp-content/uploads/2022/07/Gmail-Icon-Aesthetic.png" alt="" height="30" width="30" /></a>
 
-- 📄 Know about my experiences [Have a look at my Resume? ](https://drive.google.com/file/d/1Inwa-jTqjrWpB5RWIM6-65pcAu_TIZAZ/view?usp=drive_link)
+- 📄 Know about my experiences [Have a look at my Resume? ](https://drive.google.com/file/d/1ZjIMgQYiFGwA4F2UOoslW59isNRXnJL5/view?usp=sharing)
 
 - ⚡ Fun fact: **My Profile Name itself states me 😂**
 
